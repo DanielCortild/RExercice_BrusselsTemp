@@ -1,5 +1,6 @@
-- Import the data from 
-> https://raw.githubusercontent.com/DanielCortild/RExercices/master/BrusselsTemp.csv
+# Instructions
+
+- Import the data from https://raw.githubusercontent.com/DanielCortild/RExercices/master/BrusselsTemp.csv
 
 - Transform the Day, Month and Year fields into a more readable numeric format, and add a Date field.
 
